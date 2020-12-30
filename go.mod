@@ -1,4 +1,4 @@
-module bookstore-utils-go
+module github.com/black-lotus/bookstore-utils-go
 
 go 1.15
 
